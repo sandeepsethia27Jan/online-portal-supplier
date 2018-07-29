@@ -1,0 +1,9 @@
+rootProject.name = 'supplier-server'
+
+include 'core'
+include 'supplier-config'
+include 'supplier-security'
+include 'supplier-persistence'
+include 'supplier-utils'
+
+include 'supplier-test-cucumber'
